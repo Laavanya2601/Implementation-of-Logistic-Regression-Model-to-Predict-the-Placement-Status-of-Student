@@ -74,13 +74,13 @@ cm_display.plot()
 ## Output:
 
 
-<img width="1017" height="560" alt="704572968-5b94db6c-4234-4559-bcf9-2231b041266a" src="https://github.com/user-attachments/assets/e98b1ac7-1065-4ff5-8f7b-79e297e3f542" />
+<img width="796" height="313" alt="image" src="https://github.com/user-attachments/assets/51bac76d-5336-4dcc-95ba-994bfa95e71d" />
 
 
 
 
+<img width="671" height="436" alt="image" src="https://github.com/user-attachments/assets/34775c32-1d27-4e38-8334-8ea1d8868b01" />
 
-<img width="983" height="695" alt="704573224-eafab157-d718-479d-9913-0c2d6ad303bc" src="https://github.com/user-attachments/assets/3e4f83cf-db8c-4cb4-bd2a-14c14e1b8ae1" />
 
 
 ## Result:
